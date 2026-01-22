@@ -35,20 +35,20 @@ class AppFlowyPrimitiveTokens {
   /// #54596e
   static Color get neutral700 => Color(0xFF54596E);
 
-  /// #3d404f
-  static Color get neutral800 => Color(0xFF3D404F);
+  /// #334155
+  static Color get neutral800 => Color(0xFF334155);
 
-  /// #363845
-  static Color get neutral830 => Color(0xFF363845);
+  /// #162032
+  static Color get neutral830 => Color(0xFF162032);
 
-  /// #32343f
-  static Color get neutral850 => Color(0xFF32343F);
+  /// #1e293b
+  static Color get neutral850 => Color(0xFF1E293B);
 
-  /// #272930
-  static Color get neutral900 => Color(0xFF272930);
+  /// #0f172a
+  static Color get neutral900 => Color(0xFF0F172A);
 
-  /// #21232a
-  static Color get neutral1000 => Color(0xFF21232A);
+  /// #020617
+  static Color get neutral1000 => Color(0xFF020617);
 
   /// #000000
   static Color get neutralBlack => Color(0xFF000000);
